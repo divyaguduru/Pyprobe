@@ -1,0 +1,18 @@
+Userstory_1:
+
+It is deriving account numbers for account numbers given in text file entries.txt and 
+writing the derived account numbrs each time to write.txt file.Corresponding testcase file is test1.py
+
+
+Userstory_2:
+
+For a given account number in entries2.txt file,It is checking whether that account number
+ is a valid account number or not.Corresponding testcase file is test2.py
+
+
+Userstory_3:
+
+For given account number entries in entries3.txt file, it is checking for valid accounts&eligible accounts,
+invalid accounts and non-eligibile accounts and printing the output to write3.txt file.Corresponding testcase file is test3.py
+
+
